@@ -1,6 +1,8 @@
-# GPConnect 
+# GPConnect Alpha
 
-A very simple example of calling the GP Connect API.
+A very simple example of an object to call the GP Connect API.
+
+This doesn't do anything specifically FHIR yet - it just returns the raw json.
 
 ## License
 
