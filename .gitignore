@@ -1,0 +1,26 @@
+# Compiled python modules.
+*.pyc
+
+#Outputs from the build process
+getPatientDetailsReq.py
+getPatientDetailsBySearchReq.py
+getPatientDetailsByNHSNumberReq.py
+getNHSNumberReq.py
+verifyNHSNumberReq.py
+verifyNHSNumberResp.py
+getNHSNumberResp.py
+getPatientDetailsResp.py
+/built/
+requirementspack.zip
+
+# Setuptools distribution folder.
+/dist/
+/build/
+__pycache__
+.cache
+
+# Pack download
+/Requirements\ Pack/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info

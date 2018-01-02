@@ -1,0 +1,16 @@
+asn1crypto==0.24.0
+attrs==17.4.0
+certifi==2017.11.5
+cffi==1.11.2
+chardet==3.0.4
+idna==2.6
+pluggy==0.6.0
+py==1.5.2
+pyasn1==0.4.2
+pycparser==2.18
+pygpconnect==0.1
+PyJWT==1.5.3
+pytest==3.3.1
+requests==2.18.4
+six==1.11.0
+urllib3==1.22
