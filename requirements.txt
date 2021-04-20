@@ -5,7 +5,7 @@ cffi==1.11.2
 chardet==3.0.4
 idna==2.6
 pluggy==0.6.0
-py==1.5.2
+py==1.10.0
 pyasn1==0.4.2
 pycparser==2.18
 pygpconnect==0.1
