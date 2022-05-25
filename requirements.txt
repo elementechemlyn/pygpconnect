@@ -9,7 +9,7 @@ py==1.5.2
 pyasn1==0.4.2
 pycparser==2.18
 pygpconnect==0.1
-PyJWT==1.5.3
+PyJWT==2.4.0
 pytest==3.3.1
 requests==2.20.0
 six==1.11.0
